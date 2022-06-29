@@ -1,4 +1,5 @@
 # Star Fighter
+![star-fighter-logo](https://user-images.githubusercontent.com/73944749/176432729-9eb6cd81-6602-4fd3-9e8d-1e078c832d36.png)
 A 2D Invaders style mini-game made with Unity.
 
 ## The Game
